@@ -1,0 +1,44 @@
+1，网宿日志：
+	https://portal.chinanetcenter.com/cas/login?service=https%3A%2F%2Fsi.chinanetcenter.com%2Fr_sec_login 
+	账号：redcdn
+	密码：iptv@2016
+2.远程桌面：
+	192.168.12.168
+	账号：administrator
+	密码：iptv_2014
+3.本机mysql：
+	账号：root
+	密码：没有
+
+4.阿里云 CGX洞穴
+	ALIYUN123456
+	
+5.p4 caigx 
+密码：caigx20170825
+
+6.75.75 mysql
+	Dbname：tongji_data_bj 
+	user: mysql_tj_bj
+	password: TJdb#tv0t5c9d238FFF3
+7.GitHub ukinhappy@163.com
+	GitHub123456
+8.网宿管理后台
+	账号：redcdn
+	密码：WScdns%vg97w1$@20171020
+	iptv_2017
+9. 114.112.74.78:20000 
+
+|114.112.74.78 
+
+-sms|ctbjyzbysms78|YZsms%ZZO92F$@2015811
+
+
+10.cdradmin
+	ftp_iptv_2017
+
+11.本机mysql
+	root
+	root
+12. 邮箱
+	caigx@butel.com
+	happy123
